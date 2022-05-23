@@ -21,7 +21,6 @@ on:
       - main
     paths:
       - '.config.lean'
-
   #schedule:
   #  - cron: 0 8 * * 5
   watch:
